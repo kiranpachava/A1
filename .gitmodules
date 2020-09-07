@@ -1,0 +1,8 @@
+[submodule "B1"]
+	path = B1
+	url = https://github.com/kiranpachava/B1.git
+	branch = dev1
+[submodule "C1"]
+	path = C1
+	url = https://github.com/kiranpachava/C1.git
+	branch = dev1
